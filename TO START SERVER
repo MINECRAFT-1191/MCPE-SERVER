@@ -1,0 +1,1 @@
+java -Xmx7444m -Xms744m -jar server.jar nogui
